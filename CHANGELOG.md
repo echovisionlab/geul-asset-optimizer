@@ -2,10 +2,9 @@
 
 ## [0.1.1](https://github.com/echovisionlab/geul-asset-optimizer/compare/v0.1.0...v0.1.1) (2026-09-02)
 
-
 ### Bug Fixes
 
-* pin Docker base images and remove Actions cache ([#6](https://github.com/echovisionlab/geul-asset-optimizer/issues/6)) ([f446ef1](https://github.com/echovisionlab/geul-asset-optimizer/commit/f446ef1f98ece7f35b725461f1edfa9369fb37b5))
+- pin Docker base images and remove Actions cache ([#6](https://github.com/echovisionlab/geul-asset-optimizer/issues/6)) ([f446ef1](https://github.com/echovisionlab/geul-asset-optimizer/commit/f446ef1f98ece7f35b725461f1edfa9369fb37b5))
 
 ## 0.1.0 (2026-09-02)
 
