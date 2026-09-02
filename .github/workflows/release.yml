@@ -137,8 +137,6 @@ jobs:
           file: ./Dockerfile
           platforms: ${{ env.PLATFORMS }}
           push: true
-          cache-from: type=gha,scope=geul-asset-optimizer-release
-          cache-to: type=gha,scope=geul-asset-optimizer-release,mode=max,ignore-error=true
           labels: |
             org.opencontainers.image.created=${{ steps.image.outputs.created_at }}
             org.opencontainers.image.revision=${{ steps.release.outputs.sha }}
