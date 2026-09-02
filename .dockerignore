@@ -1,0 +1,14 @@
+.git
+.github
+.DS_Store
+.env
+.env.*
+node_modules/
+
+/bin/
+/dist/
+/.coverage/
+/coverage.out
+/asset-optimizer
+*.prof
+*.test

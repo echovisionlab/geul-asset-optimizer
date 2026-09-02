@@ -1,0 +1,13 @@
+.DS_Store
+.env
+.env.*
+!.env.example
+node_modules/
+
+/bin/
+/dist/
+/.coverage/
+/coverage.out
+/asset-optimizer
+*.prof
+*.test

@@ -1,0 +1,14 @@
+version: "2"
+
+linters:
+  default: none
+  enable:
+    - gocyclo
+  settings:
+    gocyclo:
+      min-complexity: 11
+  exclusions:
+    rules:
+      - path: _test\.go
+        linters:
+          - gocyclo
