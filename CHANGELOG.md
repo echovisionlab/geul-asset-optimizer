@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.2](https://github.com/echovisionlab/geul-asset-optimizer/compare/v0.1.1...v0.1.2) (2026-09-02)
+
+
+### Bug Fixes
+
+* **ci:** remove dependency caches ([#8](https://github.com/echovisionlab/geul-asset-optimizer/issues/8)) ([edd84f5](https://github.com/echovisionlab/geul-asset-optimizer/commit/edd84f5a7cf516ef913ec5a808b6768b4f41d6dc))
+
 ## [0.1.1](https://github.com/echovisionlab/geul-asset-optimizer/compare/v0.1.0...v0.1.1) (2026-09-02)
 
 ### Bug Fixes
